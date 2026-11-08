@@ -76,3 +76,9 @@
     - LinkedIn:
         icon: linkedin.png
         href: https://www.linkedin.com/feed/
+    - TickTick:
+        icon: ticktick.png
+        href: https://ticktick.com/
+    - Shikimori:
+        icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSte4S4yLlz0hOYJpmRfXZW5Vv60P5FWjzROlASDo0sSvWdr7tz9HIHQ&s=10
+        href: https://shikimori.io/
